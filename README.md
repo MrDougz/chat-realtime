@@ -4,8 +4,8 @@ Real-time chat with React.js and Node.js
 
 ## Installation
 
-- cd _web_ and run `npm install` or `yarn` to install dependencies in web directory
-- cd _server_ and run `npm install` or `yarn` to install dependencies in server directory
+- cd **web** and run `npm install` or `yarn` to install dependencies in web directory
+- cd **server** and run `npm install` or `yarn` to install dependencies in server directory
 - run `yarn start` or `npm start` on each.
 
 ## Features
